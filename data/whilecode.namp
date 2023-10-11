@@ -1,0 +1,9 @@
+{
+integer x ;
+integer z ;
+while x == 9
+ z =   z + 1 ;
+ x =   x - 1
+wend
+}
+

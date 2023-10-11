@@ -1,0 +1,8 @@
+{
+integer x ;
+if x == 2 :
+z = 10 * 4 
+else :
+z = 12 / 4
+}
+

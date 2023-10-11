@@ -1,0 +1,1 @@
+t_program(t_block(t_declarationbeta(t_identifierdeclaration(t_integer(interger), t_identifier(x))), t_commandbeta(t_ifelse(t_equality(t_identifier(x), t_digit(2)), t_commandbeta(t_assignmentcommand(t_identifier(z), t_multiply(t_digit(10), t_mul(*), t_digit(4)))), t_commandbeta(t_assignmentcommand(t_identifier(z), t_divide(t_digit(12), t_div(/), t_digit(4))))))))

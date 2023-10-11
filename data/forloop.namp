@@ -1,0 +1,8 @@
+{
+integer y ;
+integer x ;
+x = 0 ;
+for i in range ( 10 )
+z = z + y * y
+fend
+}

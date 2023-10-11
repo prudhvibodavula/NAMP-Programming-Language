@@ -1,0 +1,7 @@
+{
+
+  integer z ;
+  z = 10 ;
+  show z
+
+}
